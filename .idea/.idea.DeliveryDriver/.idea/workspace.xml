@@ -7,9 +7,7 @@
     <list default="true" id="cdc7a86d-9ee1-41e6-b4f0-f45fb515a358" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.DeliveryDriver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DeliveryDriver/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collision.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collision.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Delivery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Delivery.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
       <workItem from="1684775490574" duration="12000" />
       <workItem from="1684775516109" duration="714000" />
       <workItem from="1685109770005" duration="3639000" />
-      <workItem from="1685188398652" duration="2065000" />
+      <workItem from="1685188398652" duration="3839000" />
     </task>
     <servers />
   </component>
